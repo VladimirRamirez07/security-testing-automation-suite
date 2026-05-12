@@ -17,31 +17,29 @@
 
 ## 📁 Project Structure
 
-security-testing-automation-suite/
-│
-├── tests/
-│   ├── init.py
-│   ├── test_sqli.py          # SQL Injection (basic + time-based)
-│   ├── test_headers.py       # Missing & exposed HTTP security headers
-│   ├── test_endpoints.py     # Sensitive endpoints & HTTP methods
-│   ├── test_passwords.py     # Weak passwords & account lockout
-│   ├── test_rate_limits.py   # Brute force & concurrent requests
-│   ├── test_https.py         # SSL/TLS, mixed content & redirects
-│   └── test_auth.py          # Auth bypass, IDOR & session cookies
-│
-├── utils/
-│   ├── init.py
-│   ├── zap_client.py         # OWASP ZAP API wrapper
-│   └── report_generator.py   # HTML & JSON report generator
-│
-├── reports/                  # Auto-generated test reports (HTML & JSON)
-├── conftest.py               # Global pytest config & shared fixtures
-├── requirements.txt          # Project dependencies
-├── .gitignore
-├── LICENSE
-└── README.md
----
-
+    ```
+    security-testing-automation-suite/
+    ├── tests/
+    │   ├── __init__.py
+    │   ├── test_sqli.py
+    │   ├── test_headers.py
+    │   ├── test_endpoints.py
+    │   ├── test_passwords.py
+    │   ├── test_rate_limits.py
+    │   ├── test_https.py
+    │   └── test_auth.py
+    ├── utils/
+    │   ├── __init__.py
+    │   ├── zap_client.py
+    │   └── report_generator.py
+    ├── reports/
+    ├── conftest.py
+    ├── requirements.txt
+    ├── .gitignore
+    ├── LICENSE
+    └── README.md
+    ```
+    ---
 ## 🛠️ Tech Stack
 
 | Tool | Version | Purpose |
