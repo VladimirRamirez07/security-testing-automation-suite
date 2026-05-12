@@ -128,4 +128,6 @@ you do not own or have explicit permission to test.
 ## 👤 Author
 
 **VladimirRamirez07**
+
 [![GitHub](https://img.shields.io/badge/GitHub-VladimirRamirez07-181717?logo=github)](https://github.com/VladimirRamirez07)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vladimir%20Ramírez-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vladimir-ramírez-303a433ba)
