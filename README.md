@@ -18,6 +18,9 @@
 
 ## 📁 Project Structure
     security-testing-automation-suite/
+    ├── .github/
+    │   └── workflows/
+    │       └── security-tests.yml
     ├── tests/
     │   ├── __init__.py
     │   ├── test_sqli.py
