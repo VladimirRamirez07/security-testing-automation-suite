@@ -16,8 +16,6 @@
 ---
 
 ## 📁 Project Structure
-
-    ```
     security-testing-automation-suite/
     ├── tests/
     │   ├── __init__.py
@@ -38,8 +36,7 @@
     ├── .gitignore
     ├── LICENSE
     └── README.md
-    ```
-    ---
+
 ## 🛠️ Tech Stack
 
 | Tool | Version | Purpose |
