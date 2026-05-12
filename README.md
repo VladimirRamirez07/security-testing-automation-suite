@@ -1,6 +1,7 @@
 # 🔒 Security Testing Automation Suite
 
 ![Tests](https://img.shields.io/badge/tests-25%20passed-brightgreen)
+![CI](https://github.com/VladimirRamirez07/security-testing-automation-suite/actions/workflows/security-tests.yml/badge.svg)
 ![Python](https://img.shields.io/badge/python-3.14-blue)
 ![pytest](https://img.shields.io/badge/pytest-9.0.3-orange)
 ![Selenium](https://img.shields.io/badge/selenium-4.43.0-43B02A?logo=selenium&logoColor=white)
